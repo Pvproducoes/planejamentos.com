@@ -1,33 +1,78 @@
-# Gradle files
-.gradle/
-build/
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <
 
-# Local configuration file (sdk path, etc)
-local.properties
+   
+<title>planejamentos.com</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Castellar, sans-serif;
+            font-size: 14px;
+            text-align: center;
+        }
+        footer {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 10px;
+            text-align: left;
+            padding: 10px;
+        }
+    </style>
 
-# Log/OS Files
-*.log
+</
+</head>
+<body>
+    <h1>planejamentos.com</h1>
+    <footer>
+        
+        <
+<p>planejamentos.com</p>
+        <br>
+        <p>Powered by PV Produções</p>
+        <br>
+        <p>2023</p>
+    
+    </footer
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+    <meta charset="UTF-8">
+    
+   
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    
+    <
+<h1>Formulário de Login</h1>
+    
+    <
+<form action="https://www.alicerceedu.com.br/minhasturmas" method="POST">
+        <label for="login">Login:</label>
+        <input type="text" id="login" name="login" required><patrickpv><pvpv>
+        
+        
+        
+       
+<label for="senha">Senha:</label>
+        
+       
+<input type="password" id="senha" name="senha" required><patrickpv><pvpv>
+        
+        
+        
+        <
+<input type="submit" value="Entrar">
+    </form>
+</footer>
+</body>
+</html>
